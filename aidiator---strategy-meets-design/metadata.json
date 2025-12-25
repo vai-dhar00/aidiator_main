@@ -1,0 +1,8 @@
+{
+  "name": "AIDIATOR - Strategy Meets Design",
+  "description": "Professional website for AIDIATOR LLC, a premier strategic consulting and UI/UX design agency.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
